@@ -1,0 +1,6 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+========================================
+Total Students: 8
+Overall Average: 79.54
+Highest Average: 92.33
+Average Attendance: 88.50
